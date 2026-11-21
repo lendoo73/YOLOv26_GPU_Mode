@@ -20,4 +20,3 @@ __pycache__/
 /datasets/pothole
 /datasets/knife_detection_dataset
 /datasets/face_mask_dataset
-/datasets/chest_xray_dataset
