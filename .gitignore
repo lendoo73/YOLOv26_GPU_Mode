@@ -14,6 +14,3 @@ __pycache__/
 /yolo26[lx].pt
 /yolo26[sx]-seg.pt
 /yolo26x-[co]??.pt
-
-/datasets/weather_dataset
-/datasets/road_sign_dataset
