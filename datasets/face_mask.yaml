@@ -1,0 +1,8 @@
+path: datasets/face_mask_dataset
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# class names
+names: ['Mask', 'No Mask', 'Bad Mask']
