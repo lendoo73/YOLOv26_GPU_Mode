@@ -18,4 +18,3 @@ __pycache__/
 /datasets/weather_dataset
 /datasets/road_sign_dataset
 /datasets/pothole
-/datasets/knife_detection_dataset
